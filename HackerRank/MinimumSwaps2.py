@@ -25,7 +25,6 @@ for i in range(len(nums)):
         pass
     else:
         swp_count += 1
-
         try:
             swp_idx = val_dict[i+1]
         except:
