@@ -1,2 +1,2 @@
-# ContestProblems
-Solutions to programming problems from various sites
+# Programming practice
+Solutions to programming problems from various kattis, hackerrank, leetcode
